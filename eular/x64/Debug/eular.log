@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\daily\half edge\cad_cxj\eular\eular\halfedge_datastructure.h(82): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\daily\half edge\cad_cxj\eular\eular\halfedge_datastructure.h(83): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\daily\half edge\cad_cxj\eular\eular\halfedge_datastructure.h(112): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\daily\half edge\cad_cxj\eular\eular\eular_operation.h(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\daily\half edge\cad_cxj\eular\eular\main.cpp(12): warning C4101: “up”: 未引用的局部变量
+d:\daily\half edge\cad_cxj\eular\eular\main.cpp(120): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\daily\half edge\cad_cxj\eular\eular\main.cpp(121): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  eular.vcxproj -> D:\Daily\half edge\cad_cxj\eular\x64\Debug\eular.exe
